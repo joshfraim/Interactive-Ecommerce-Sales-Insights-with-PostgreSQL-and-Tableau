@@ -1,2 +1,2 @@
 # Interactive-Ecommerce-Sales-Insights-with-PostgreSQL-and-Tableau
-This project involves analyzing E-commerce sales data using PostgreSQL for database management and Tableau for data visualization. It includes RFM analysis for customer segmentation and various interactive dashboards to display sales trends, running sales and geographical sales distribution.
+This project focuses on analyzing retail sales data to derive actionable insights using PostgreSQL for database management and Tableau for interactive data visualization. The analysis includes sales trends, customer RFM analysis and geographical sales distribution..
