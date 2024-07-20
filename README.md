@@ -8,6 +8,9 @@ Data Extraction and Loading:
 * Efficient data extraction from kaggle's E-commerce sale data set CSV files.
 * Data loading and management using PostgreSQL.
 
+## Challenges:
+* Negative and Zero Sales Values: Encountered negative and zero values in the sales data, which posed challenges for verification as it was fictional data. It was challenging to assume that negative values represented refunds and zero values were promotional items. Due to these anomalies, I decided to clean or eliminate those data points and proceeded with the analysis and visualization.
+
 Sales Data Analysis:
 * Exploratory data analysis (EDA) of the sales data to identify trends and patterns.
 * Calculation of key metrics such as total sales, average order value, and sales growth rates.
